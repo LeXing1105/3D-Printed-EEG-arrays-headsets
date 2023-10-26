@@ -10,6 +10,8 @@ This Repository includes 3D-printed models and prototypes of
 
 (4) the individual flat or fingered electrodes for array assembly.
 
+The models (.stl files) are in the Model folder, the pictures of printed prototypes are also provided in this folder.
+
 Flexible printing filaments can be used for making those models. I used commercially available TPU filaments to make them in my own cases. For electrode manufacturing, we have different options for making Ag/AgCl coated electrodes, directly conductive electrodes, or something else, based on the resources and applications. 
 
 Please refer to the following papers, regarding the fabrication of the electrodes:
