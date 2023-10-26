@@ -1,4 +1,4 @@
-# 3D-Printed-EEG-arrays-headsets
+# 3D-Printed-EEG-arrays-headsets-prototypes
 
 This Repository includes 3D-printed models and prototypes of
 
